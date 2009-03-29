@@ -1,7 +1,7 @@
 = Tutorial =
 
 === 1. Load and Preprocess Data ===
-A small sample file, called "example_data.tab," is provided.  Load this example file.  In addition to tab delimited, GAIN also accepts arff format.  
+Load the small sample file provided, called "example_data.tab," is provided.  In addition to tab delimited, GAIN also accepts arff format.  
 
 In the _Pair-wise correlations_ area, select the correlation threshold (.8 by default) and click _Calculate_ then _Show Correlated_ tab.  You may remove redundant SNPs by checking the box next to a SNP and clicking Remove.  A utility is also provided in _Attributes of Interest_ that allows the user to provide a list of SNPs to keep for analysis and remove all others. A file has been created that has a list of SNPs to keep in the data file.  Choose and Apply the "correlation_filter_list.txt," which will create a smaller data set of non-redundant SNPs. 
 
