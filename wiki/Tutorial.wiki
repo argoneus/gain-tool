@@ -7,7 +7,7 @@ In the _Pair-wise correlations_ area, select the correlation threshold (.8 by de
 
 === 2. Interaction Analysis ===
 
-Change the _Interaction Lower Bound_ to .03 and Run.  Decrease the lower bound to see other possible interactions not shown by a more strict threshold.  In Interaction Table, click the column labeled _Selected_ to select all SNP pairs then click Visualize Network.  You can also select the _Network Degrees_ tab to see the number of connections each node has and the _Export Results_ tab to export results like the network to cytoscape format.     
+Change the _Interaction Lower Bound_ to .03 and Run.  Decrease the lower bound to see other possible interactions not shown by a more strict threshold.  In Interaction Table, click the column labeled _Selected_ to select all SNP pairs then click _Visualize Network_.  You can also select the _Network Degrees_ tab to see the number of connections each node has and the _Export Results_ tab to export results like the network to cytoscape format.     
 
 === 3. Permutation Analysis ===
 
