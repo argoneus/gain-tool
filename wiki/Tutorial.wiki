@@ -11,4 +11,4 @@ Change the _Interaction Lower Bound_ to .03 and Run.  Decrease the lower bound t
 
 === 3. Permutation Analysis ===
 
-To estimate the interaction threshold to use for the Interaction Lower Bound, click Run in Permutation Analysis.  This will generate the interaction gain scores between 500 randomized pairs then return the cutoff for a false connection rate of .05.   
+To estimate the interaction threshold to use for the Interaction Lower Bound, click Run in Permutation Analysis.  This will generate the interaction gain scores between 500 randomized pairs then return the threshold for a false connection rate of .05.  The permutation algorithm looks for the randomized score such that 5% of the random scores are more extreme.  This score can be interpreted as 5% of the connections above this threshold are false. 
