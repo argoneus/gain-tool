@@ -26,3 +26,5 @@ B.A. McKinney, J.E. Crowe, Jr., J. Guo, and D. Tian, "Capturing the spectrum of 
 
 # Acknowledgments
 We would like to acknowledge the developers of [prefuse](https://github.com/prefuse/Prefuse).
+
+Send inquiries to [brett.mckinney@gmail.com](mailto:brett.mckinney@gmail.com)
