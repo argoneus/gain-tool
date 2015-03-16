@@ -1,5 +1,5 @@
 # jgain
-Automatically exported from code.google.com/p/gain-tool
+*Automatically exported from code.google.com/p/gain-tool*
 
 GAIN is based on interaction information between three attributes; in this case, between two single nucleotide polymporphisms (SNPs) and a class or phenotype attribute. Interaction information is the gain in phenotype information obtained by considering SNP A and SNP B jointly beyond the phenotype information that would be gained by considering SNPs A and B independently.
 
